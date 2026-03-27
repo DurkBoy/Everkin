@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="feed">Feed</string>
+    <string name="walk">Walk</string>
+    <string name="age">Age: %s</string>
+    <string name="friendliness">Friendliness</string>
+    <string name="loyalty">Loyalty</string>
+    <string name="love">Love</string>
+    <string name="happiness">Happiness</string>
+    <string name="trust">Trust</string>
+    <string name="welcome_back">You\'re back!</string>
+    <string name="missed_you">I missed you!</string>
+    <string name="long_away">It\'s been a while…</string>
+    <string name="tap_reaction">:)</string>
+    <string name="rub_reaction">^_^</string>
+    <string name="walk_happy">The walk made me happy!</string>
+    <string name="egg_tap_hint">Tap to hatch</string>
+</resources>
