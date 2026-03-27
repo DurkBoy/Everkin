@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Companion</string>
+    <string name="app_name">Everkin</string>
     <string name="feed">Feed</string>
     <string name="walk">Walk</string>
     <string name="age">Age: %s</string>
