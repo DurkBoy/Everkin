@@ -26,7 +26,7 @@ fun StatRow(label: String, value: Int) {
     Column(modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp)) {
         Text("$label: $value%")
         LinearProgressIndicator(
-            progress = value / 100f,
+            progress = { value / 100f },
             modifier = Modifier.fillMaxWidth()
         )
     }
